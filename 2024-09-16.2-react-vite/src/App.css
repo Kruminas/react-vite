@@ -1,0 +1,28 @@
+.container {
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+
+/*.Title {
+  position: absolute;
+  left: 200px;
+  font-size: 22px;
+  bottom: -2550px;
+  line-height: 350px;
+  left: 20%
+}
+
+.Rating {
+  position: absolute;
+  left: 200px;
+  font-size: 22px;
+  bottom: -1000px;
+  line-height: 172px;
+  left: 20%
+}
+  */
